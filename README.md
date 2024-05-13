@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DMr.insane
+- 👋 Hi, I’m Mr.insane
 - 👀 I’m interested in Robotics,A.I,Weapons,Mechatronics engineering
 - 🌱 I’m currently learning Machine Learning,Mechatronics
 - 📫 How to reach me? : Discord id = mr.insane5105
